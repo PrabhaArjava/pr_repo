@@ -1,0 +1,16 @@
+print('Hello Python!')
+print("Hi, Python!")
+print(2 + 7)
+print(8 * 8)
+print("My name is Muthiah.","And I used to love Cricket.", "My Favoutite Player Jersey No is ",17)
+print('In python "Quotes" can be used!')
+print("In python 'Braces' can be used!")
+print("Python's code are reduce code complexity")
+print("We"+" "+"love"+" "+"python")
+print('They'+'also'+'love'+'python')
+msg = "Hello"
+name = "Prabha"
+print(msg+name)
+print(msg+" "+name)
+greet = input("Make a wish here please! ")
+print(name+" "+greet)
