@@ -1,0 +1,4 @@
+config/__pycache__/*.pyc
+model/__pycache__/*.pyc
+dao/__pycache__/*.pyc
+controller/__pycache__/*.pyc
